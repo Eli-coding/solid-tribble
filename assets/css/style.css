@@ -10,10 +10,12 @@ check heading for sequential order*/
     margin: 0;
 }
 
+/* defines color background */
 body {
     background-color: #d9dcd6;
 }
 
+/* defines style the  header*/
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -21,11 +23,13 @@ body {
     color: #ffffff;
 }
 
+/* defines display and font-size for h1*/
 .header h1 {
     display: inline-block;
     font-size: 48px;
 }
 
+/* color for h1 and seo class */
 .header h1, .seo {
     color: #d9dcd6;
 }
@@ -47,11 +51,13 @@ body {
     margin-left: 25px;
 }
 
+/*  for anchor tags with links */
 a {
     color: #ffffff;
     text-decoration: none;
 }
 
+/* font for all the p elements */
 p {
     font-size: 16px;
 }
@@ -103,7 +109,7 @@ p {
 }
 
 
-
+/* images */
 .benefit-lead img, .benefit-brand img, .benefit-cost img{
     display: block;
     margin: 10px auto;
@@ -126,7 +132,7 @@ p {
 }
 
 
-
+/* images  */
 .search-engine-optimization img,
 .online-reputation-management img, 
 .social-media-marketing img  {
