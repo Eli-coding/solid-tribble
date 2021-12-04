@@ -1,8 +1,6 @@
 
-/*comment css 
-fix photos */
 
-
+/* first statement for the footer */
 * {
     box-sizing: border-box;
     padding: 0;
@@ -48,7 +46,7 @@ body {
     text-align: center;
 }
 
-
+/*attributes for header links*/
 .header div {
     padding-top: 15px;
     margin-right: 20px;
@@ -57,10 +55,12 @@ body {
     font-size: 20px;
 }
 
+/*list style type  */
 .header div ul {
     list-style-type: none;
 }
 
+/*list display position */
 .header div ul li {
     display: inline-block;
     margin-left: 25px;
@@ -122,12 +122,12 @@ p {
     background-color: #2589bd;
 }
 
+
+/*attributes for content on the right*/
 .benefit-lead, .benefit-brand, .benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
 }
-
-
 
 
 /* images */
@@ -138,7 +138,7 @@ p {
 }
 
 
-
+/*attributes for content on the left */
 .search-engine-optimization, 
 .online-reputation-management, 
 .social-media-marketing
